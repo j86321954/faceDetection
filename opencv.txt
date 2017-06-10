@@ -1,0 +1,5 @@
+C:\opencv\build\include\
+C:\opencv\build\x64\vc15\lib\
+C:\opencv\build\x64\vc15\lib\opencv_*320d.lib
+C:\opencv\build\x64\vc15\lib\opencv_*320.lib
+C:\opencv\build\x64\vc15\bin\

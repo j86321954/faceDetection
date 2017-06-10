@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  faceDetection.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1926): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\imgproc.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\imgproc.hpp(617): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  faceDetection.vcxproj -> C:\Users\hsj\Documents\Visual Studio 2017\Projects\faceDetection\x64\Debug\faceDetection.exe
+  faceDetection.vcxproj -> C:\Users\hsj\Documents\Visual Studio 2017\Projects\faceDetection\x64\Debug\faceDetection.pdb (Partial PDB)
